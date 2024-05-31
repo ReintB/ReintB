@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReintB
-- 🌱 I’m currently learning python, c++
+- 🌱 I’m currently learning math
 - 📫 @reinthartb
 
 <!---

@@ -10,4 +10,4 @@ Hello, I'm **Reinhart Barus**, an active 2nd-semester student majoring in **Auto
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" /> -->

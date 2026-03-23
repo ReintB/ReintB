@@ -7,6 +7,7 @@ Hello, I'm **Reinhart Barus**, an active 2nd-semester student majoring in **Auto
 * **[TebakBaku](https://github.com/ReintB/TebakBaku)** — [Standard Indonesian Word Quiz]
 * **[xiipalingteknik](https://github.com/ReintB/xiipalingteknik)** — [Senior High School Class Website]
 * **[Scanalyze](https://github.com/ReintB/scanalyze)** — [Analyze documents with AI]
+* **[dipSchedule](https://github.com/ReintB/dipSchedule)** — [Converts PDF exam schedules into neat and sorted tables in seconds.]
 
 <br>
 

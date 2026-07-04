@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm **Reinhart Barus**, an active 2nd-semester student majoring in **Automation Engineering Technology** at the **Vocational School, Diponegoro University**.
+Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Automation Engineering Technology** at the **Vocational School, Diponegoro University**.
 
 * **[Diponegoro Recorder Extension](https://github.com/ReintB/diponegoro-recorder-extension)** — [LearnSocial MP3 Recorder Widget]
 * **[MarkyMark](https://github.com/ReintB/markymark)** — [Markdown Previewer]

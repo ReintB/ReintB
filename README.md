@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<!--
 Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Automation Engineering Technology** at the **Vocational School, Diponegoro University**.
 
 * **[Diponegoro Recorder Extension](https://github.com/ReintB/diponegoro-recorder-extension)** — [LearnSocial MP3 Recorder Widget]
@@ -10,5 +11,6 @@ Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Auto
 * **[dipSchedule](https://github.com/ReintB/dipSchedule)** — [Converts PDF exam schedules into neat and sorted tables in seconds.]
 
 <br>
+-->
 
 <!-- <img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" /> -->

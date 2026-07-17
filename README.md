@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-<!--
-Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Automation Engineering Technology** at the **Vocational School, Diponegoro University**.
-
 * **[Diponegoro Recorder Extension](https://github.com/ReintB/diponegoro-recorder-extension)** — [LearnSocial MP3 Recorder Widget]
 * **[MarkyMark](https://github.com/ReintB/markymark)** — [Markdown Previewer]
 * **[TebakBaku](https://github.com/ReintB/TebakBaku)** — [Standard Indonesian Word Quiz]
 * **[xiipalingteknik](https://github.com/ReintB/xiipalingteknik)** — [Senior High School Class Website]
 * **[Scanalyze](https://github.com/ReintB/scanalyze)** — [Analyze documents with AI]
 * **[dipSchedule](https://github.com/ReintB/dipSchedule)** — [Converts PDF exam schedules into neat and sorted tables in seconds.]
+
+<!--
+Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Automation Engineering Technology** at the **Vocational School, Diponegoro University**.
 
 <br>
 -->

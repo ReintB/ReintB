@@ -7,10 +7,8 @@
 * **[Scanalyze](https://github.com/ReintB/scanalyze)** — [Analyze documents with AI]
 * **[dipSchedule](https://github.com/ReintB/dipSchedule)** — [Converts PDF exam schedules into neat and sorted tables in seconds.]
 
-<!--
 Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Automation Engineering Technology** at the **Vocational School, Diponegoro University**.
 
 <br>
--->
 
-<!-- <img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" />

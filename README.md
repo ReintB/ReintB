@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-`* **[Diponegoro Recorder Extension](https://github.com/ReintB/diponegoro-recorder-extension)** — [LearnSocial MP3 Recorder Widget]
+<!--
+* **[Diponegoro Recorder Extension](https://github.com/ReintB/diponegoro-recorder-extension)** — [LearnSocial MP3 Recorder Widget]
 * **[MarkyMark](https://github.com/ReintB/markymark)** — [Markdown Previewer]
 * **[TebakBaku](https://github.com/ReintB/TebakBaku)** — [Standard Indonesian Word Quiz]
 * **[xiipalingteknik](https://github.com/ReintB/xiipalingteknik)** — [Senior High School Class Website]
@@ -11,4 +12,5 @@ Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Auto
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" />`
+<img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" />
+-->

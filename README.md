@@ -1,14 +1,33 @@
 ## Hi there 👋
 
-* **[Diponegoro Recorder Extension](https://github.com/ReintB/diponegoro-recorder-extension)** — [LearnSocial MP3 Recorder Widget]
-* **[MarkyMark](https://github.com/ReintB/markymark)** — [Markdown Previewer]
-* **[TebakBaku](https://github.com/ReintB/TebakBaku)** — [Standard Indonesian Word Quiz]
-* **[xiipalingteknik](https://github.com/ReintB/xiipalingteknik)** — [Senior High School Class Website]
-* **[Scanalyze](https://github.com/ReintB/scanalyze)** — [Analyze documents with AI]
-* **[dipSchedule](https://github.com/ReintB/dipSchedule)** — [Converts PDF exam schedules into neat and sorted tables in seconds.]
+I'm **Reinhart Barus**, a 3rd-semester **Automation Engineering Technology** student at the **Vocational School, Diponegoro University**.
+I build small tools that remove repetitive work — for myself, my classmates, and my campus.
 
-Hello, I'm **Reinhart Barus**, an active 3rd-semester student majoring in **Automation Engineering Technology** at the **Vocational School, Diponegoro University**.
+---
 
-<br>
+### 🛠️ Tools for campus life
+
+| Project | What it does |
+|---|---|
+| **[dipSchedule](https://github.com/ReintB/dipSchedule)** | Turns PDF exam schedules into clean, sorted tables in seconds |
+| **[Diponegoro Recorder Extension](https://github.com/ReintB/diponegoro-recorder-extension)** | MP3 recorder widget for LearnSocial |
+
+### 🤖 AI & productivity
+
+| Project | What it does |
+|---|---|
+| **[Scanalyze](https://github.com/ReintB/scanalyze)** | Analyze documents with AI |
+| **[MarkyMark](https://github.com/ReintB/markymark)** | Live Markdown previewer |
+
+### 🎮 Fun & community
+
+| Project | What it does |
+|---|---|
+| **[TebakBaku](https://github.com/ReintB/TebakBaku)** | Quiz game for standard Indonesian (KBBI) words |
+| **[xiipalingteknik](https://github.com/ReintB/xiipalingteknik)** | Website for my senior high school class |
+
+👉 [See all repositories](https://github.com/ReintB?tab=repositories)
+
+---
 
 <img src="https://raw.githubusercontent.com/ReintB/ReintB/output/snake.svg" alt="Snake animation" />
